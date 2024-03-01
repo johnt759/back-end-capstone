@@ -1,0 +1,4 @@
+Superuser:
+Username: admin
+Email Address: admin@littlelemon.com
+Password: Pyth0n!$t
