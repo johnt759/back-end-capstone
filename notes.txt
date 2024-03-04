@@ -2,3 +2,15 @@ Superuser:
 Username: admin
 Email Address: admin@littlelemon.com
 Password: Pyth0n!$t
+
+User1:
+Username: Jerry
+Email Address: jerry@inbox.com
+Password: M3t@m0rph
+Token: 720aa7d6ed807b3e40d6067a2e63b849ae9ac6cb
+
+User2:
+Username: Albert
+Email Address: albert@inbox.com
+Password: F@c3b00k3r
+Token: 3b27ee48d5ce6f0cf62b8c0a1a79d0fa4dda689a

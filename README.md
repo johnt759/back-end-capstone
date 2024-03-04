@@ -6,5 +6,5 @@
 2. Phase 2 (Static content): Completed
 3. Phase 3 (Models and stored procedures): Completed
 4. Phase 4 (Adding APIs): Completed
-5. Phase 5 (User authentication): In Progress
+5. Phase 5 (User authentication): Completed
 6. Phase 6 (Testing the API): In Progress
