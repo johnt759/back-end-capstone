@@ -14,3 +14,5 @@ Username: Albert
 Email Address: albert@inbox.com
 Password: F@c3b00k3r
 Token: 3b27ee48d5ce6f0cf62b8c0a1a79d0fa4dda689a
+
+(Feel free to create more users and add some menu items when testing out the program.)

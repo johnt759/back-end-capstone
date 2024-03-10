@@ -1,7 +1,5 @@
 from django.test import TestCase
-#from restaurant.serializers import MenuSerializer
 from restaurant.models import Menu
-#from restaurant.views import MenuItemsView
 
 class MenuViewTest(TestCase):
     def setup(self):
@@ -18,4 +16,5 @@ class MenuViewTest(TestCase):
 
     def test_getthis(self):
         this_item = self.client.get('/restaurant/menu/2')
+        # Ensure that this unit test can return a specific item by id.
         self.assertNotEqual(this_item, 404)
